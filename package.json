@@ -1,0 +1,26 @@
+{
+  "name": "facturas-app",
+  "version": "1.0.0",
+  "description": "Aplicacion para el registro y seguimiento de facturas",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santialegre/administration.git"
+  },
+  "keywords": [
+    "administration"
+  ],
+  "author": "Santiago Alegre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santialegre/administration/issues"
+  },
+  "homepage": "https://github.com/santialegre/administration#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
